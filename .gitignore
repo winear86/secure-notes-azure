@@ -1,0 +1,19 @@
+# secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
+
+# common build output, until a stack is chosen
+node_modules/
+dist/
+bin/
+obj/
+__pycache__/
+*.pyc
+.venv/
