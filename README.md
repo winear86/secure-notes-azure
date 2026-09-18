@@ -1,23 +1,16 @@
-# secure-notes-azure
+# Grok Bot learning
 
-A home for private notes, eventually on Azure. Created August 31, 2025, and empty until this commit. This is a starting point, not a finished app.
+A mini project for trying Grok Bot on a real GitHub repo.
 
 ## Status
 
-Nothing here signs anyone in, encrypts a note, or deploys to Azure. The name is the intent. The code is not written yet.
+This is a sandbox, not a product. Nothing here is an app, a deploy, or a security implementation.
 
 ## What is in this repo
 
 - This README
-- A `.gitignore` so the first real code does not commit secrets or build output
-
-## What is not here
-
-- Sign-in
-- Encryption
-- Azure resources (no Bicep, Terraform, or ARM)
-- Tests or CI
+- A `.gitignore`
 
 ## Next
 
-Pick a stack, then add the smallest thing that can save and read one note. Do not add auth, encryption, or a deploy story until that code actually exists.
+Use it to test whatever comes next. Don't add claims for code that is not here.
